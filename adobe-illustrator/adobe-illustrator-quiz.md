@@ -570,5 +570,13 @@ From Adobe Help Center: [Share artwork](https://helpx.adobe.com/illustrator/how-
 - [x] Round Cap
 - [ ] Align Stroke to Outside
 
+#### Q77. What happens if you group objects that are on different layers?
+
+○ All the objects will be placed in a new sublayer of the topmost layer of the selected objects.
+○ All the objects will remain on the current layers.
+○ The three layers will be merged into the topmost layer of the selected objects.
+◘ All the objects will be placed on the topmost layer of the selected objects.
+
+
 **Explanation:**
 From Youtube Channel: [How to Round End of Path (Line) in Illustrator](https://www.youtube.com/watch?v=UCQb-JTRIm4&t=92s)
